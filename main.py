@@ -674,9 +674,9 @@ if __name__ == "__main__":
 
     # welcome_page = WelcomePage()
     # welcome_page.mainloop()
-    Login_Singin = Login_Singin()
-    Login_Singin.mainloop()
+    # Login_Singin = Login_Singin()
+    # Login_Singin.mainloop()
     
-    # app = Frame_ch()
-    # os.system('clear')
-    # app.mainloop()
+    app = Frame_ch()
+    os.system('clear')
+    app.mainloop()
